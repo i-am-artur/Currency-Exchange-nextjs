@@ -1,0 +1,12 @@
+{
+  "converter": {
+    "en": "Converter",
+    "ru": "Конвертер",
+    "path": "/converter"
+  },
+  "quotes": {
+    "en": "Quotes",
+    "ru": "Котировки",
+    "path": "/quotes"
+  }
+}
