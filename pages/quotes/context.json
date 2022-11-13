@@ -1,0 +1,18 @@
+{
+  "metaDescription": {
+    "en": "Favorite currencies converter list",
+    "ru": "Закладки валют"
+  },
+  "pageTitle": {
+    "en": "Quotes",
+    "ru": "Котировки"
+  },
+  "from": {
+    "en": "From:",
+    "ru": "Меняю:"
+  },
+  "Filter": {
+    "en": "Filter:",
+    "ru": "Фильтр:"
+  }
+}

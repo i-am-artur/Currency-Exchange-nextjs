@@ -2,6 +2,7 @@ import styled from "styled-components";
 import { colors, gap, media, width } from "styles/theme";
 
 export const Wrapper = styled.div`
+  width: 100%;
   background-color: ${colors.main_color};
 `;
 

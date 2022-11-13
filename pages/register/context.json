@@ -1,0 +1,14 @@
+{
+  "pageTitle": {
+    "en": "Registration",
+    "ru": "Регистрация"
+  },
+  "email": {
+    "en": "Email:",
+    "ru": "Э-адрес:"
+  },
+  "password": {
+    "en": "Password:",
+    "ru": "Пароль:"
+  }
+}

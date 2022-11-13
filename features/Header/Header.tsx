@@ -3,7 +3,7 @@ import { HeaderElement, Options, Wrapper } from "./header.styled";
 import Logo from "./features/Logo/Logo";
 import Navigation from "./features/Navigation/Navigation";
 import Burger from "./features/Burger/Burger";
-import LanguageSelect from "./features/LanguageSelect/LanguageSelect";
+import User from "./features/User/User";
 
 export default function Header() {
   const [isNavDisplayed, setNavDisplayed] = useState(false);
@@ -14,7 +14,7 @@ export default function Header() {
         <Logo />
         <Navigation isDisplayed={isNavDisplayed} />
         <Options>
-          <LanguageSelect />
+          <User />
           <Burger
             onClickedOutside={() => setNavDisplayed(false)}
             onClick={() => setNavDisplayed(!isNavDisplayed)}

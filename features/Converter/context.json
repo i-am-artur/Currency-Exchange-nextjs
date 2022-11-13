@@ -1,0 +1,26 @@
+{
+  "pageTitle": {
+    "en": "Converter",
+    "ru": "Конвертер"
+  },
+  "metaDescription": {
+    "en": "Convert currencies",
+    "ru": "Конвертировать валюты"
+  },
+  "from": {
+    "en": "From:",
+    "ru": "Меняю:"
+  },
+  "to": {
+    "en": "To:",
+    "ru": "На:"
+  },
+  "amount": {
+    "en": "Amount:",
+    "ru": "Сумма:"
+  },
+  "result": {
+    "en": "Result:",
+    "ru": "Результат:"
+  }
+}

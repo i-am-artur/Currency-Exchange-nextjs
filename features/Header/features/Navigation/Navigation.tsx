@@ -3,6 +3,7 @@ import { translation } from "library/Translation/translation";
 import { Menu, MenuItem, MenuLink, Nav } from "./navigation.styled";
 import GlobalContext from "components/GlobalContext";
 import Link from "next/link";
+import LanguageSelect from "../LanguageSelect/LanguageSelect";
 const context = require("./context.json");
 
 interface Props {
@@ -27,6 +28,7 @@ export default function Navigation(props: Props) {
           </MenuItem>
         ))}
       </Menu>
+      <LanguageSelect />
     </Nav>
   );
 }

@@ -1,5 +1,4 @@
 import { createGlobalStyle } from "styled-components";
-
 import { base_fontSize, colors, fontSize } from "./theme";
 
 export default createGlobalStyle`
@@ -25,6 +24,7 @@ body {
     flex: 1;
     flex-direction: column;
     display: flex;
+    align-items: stretch;
 }   
 
 code {

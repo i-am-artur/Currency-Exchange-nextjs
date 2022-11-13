@@ -1,12 +1,13 @@
 import styled from "styled-components";
-import { gap, fontSize } from "styles/theme";
+import { fontSize } from "styles/theme";
 
 const baseColor = "orangered";
 
 export const LanguageList = styled.ul`
-  margin: 0 ${gap.original} 0 0;
+  margin: 0;
   padding: 0;
   display: flex;
+  justify-content: flex-end;
   align-items: baseline;
   list-style-type: none;
 `;

@@ -2,7 +2,7 @@
   "converter": {
     "en": "Converter",
     "ru": "Конвертер",
-    "path": "/converter"
+    "path": "/"
   },
   "quotes": {
     "en": "Quotes",
